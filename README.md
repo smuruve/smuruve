@@ -1,4 +1,5 @@
 **Hi, I'm Sofia.**
+
 Economics and Psychology student @ the University of Toronto. 
 
 ---
