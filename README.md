@@ -7,7 +7,7 @@ Economics and Psychology student @ the University of Toronto.
 - Python
 - Git & GitHub
 - R
-- French (aspiring CEFR B2)
+- French
 
 **Contact:**
 - [LinkedIn](https://www.linkedin.com/in/sofia-muruve-091514282)
