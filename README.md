@@ -6,6 +6,7 @@ Economics and Psychology student @ the University of Toronto.
 **Currently learning:**
 - Python
 - Git & GitHub
+- R
 - French (aspiring CEFR B2)
 
 **Contact:**
